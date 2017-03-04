@@ -1,0 +1,23 @@
+{
+  "name": "car2car_relay",
+  "version": "0.0.0",
+  "description": "Network Routing Simulation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:/Users/windows/Google Drive/git/Car2CarRelay.git/"
+  },
+  "keywords": [
+    "simulation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.14.0",
+    "jquery": "^3.1.1"
+  }
+}
